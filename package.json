@@ -1,0 +1,10 @@
+{
+  "name": "hapi-playground",
+  "version": "1.0.0",
+  "description": "The simpliest hapi application",
+  "main": "index.js",
+  "repository": "https://github.com/Xerotico/hapi-playground",
+  "author": "Maksim Lysakou <maksim.lysakou@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
